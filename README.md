@@ -1,5 +1,7 @@
 # celebrity-avatars-parody
-Celebritron is a celebrity avatar project. The aim of Celebritron is to allow the creative community to create parody cartoons about celebrities by providing the needed assets under CC-BY-NC license.
+Celebritron is a community-made Celebrity Parody cartoon. Any artist, animator, creative, writer, or enthusiast can contribute to the series by joining.
+
+The aim of Celebritron - Celebrity Avatars Parody is to allow the creative community to create parody cartoons about celebrities by providing the needed assets under CC-BY-NC-SA license.
 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
